@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumalathamudda
-- 👀 I’m interested in up to date softwares
+- 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on Splunk admin/developer 
 - 📫 How to reach me ..flowerstanza@gmail.com
